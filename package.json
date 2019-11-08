@@ -1,0 +1,29 @@
+{
+  "name": "lab18-socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corey-marchand/lab18-socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corey-marchand/lab18-socket.io/issues"
+  },
+  "homepage": "https://github.com/corey-marchand/lab18-socket.io#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eslint": "^6.6.0",
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.9.1",
+    "superagent": "^5.1.0"
+  }
+}
